@@ -242,3 +242,6 @@ url = "https://github.com/insight-chain/inb-wallet-ios"
 
 [[repo]]
 url = "https://github.com/insight-chain/inb-web3i.js"
+
+[[repo]]
+url = "https://github.com/Aurigami-Finance/aurigami-smart-contracts"
